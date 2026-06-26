@@ -101,10 +101,9 @@ const azim = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
+ 
+> *"There are only two hard things in Computer Science: cache invalidation and naming things."*
+> — Phil Karlton
 
 <div align="center">
   <i>If you like my work, consider giving a ⭐ to my repos!</i>
