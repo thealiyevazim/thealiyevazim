@@ -28,7 +28,7 @@ const azim = {
 
 ## 🧰 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=react,react native, expo, nodejs,python,typescript,nextjs,postgres,docker,git,figma,vscode)
+![Skills](https://skillicons.dev/icons?i=react,react-native, expo, nodejs,python,typescript,nextjs,postgres,docker,git,figma,vscode)
 
 ---
 
