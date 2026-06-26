@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey+%F0%9F%91%8B+I'm+Azim;Mobile+%26+Bot+Developer;React+Native+%E2%9C%A6+Telegram+Bots" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey+%F0%9F%91%8B+I'm+Azim;Mobile+Developer;" alt="Typing SVG" />
 
 <br/>
 
